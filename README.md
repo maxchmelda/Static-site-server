@@ -24,5 +24,3 @@ I learned how the internet protocols are really implemented and found it pretty 
 * It doesn't really handle errors the way it should
 
 Maybe I'll get back to it later :)
-
-
